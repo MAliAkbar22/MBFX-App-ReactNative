@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad5270d5-8f90-4831-abde-3958971c4e18"
+      }
+    },
+    "owner": "maakbarofficial"
   }
 }
